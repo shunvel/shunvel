@@ -11,12 +11,14 @@ I am always open to discussing the intersection of **Agentic AI**, **Engineering
 #### 🌐 Professional Network
 The fastest way to reach me is via **LinkedIn**. I am active in the engineering community and welcome meaningful connections.
 * **LinkedIn:** [linkedin.com/in/shunmugavel](https://linkedin.com/in/shunmugavel)
+* **Medium:** [shunvel.medium.com](https://shunvel.medium.com/) — Where I publish deep-dives on AI innovation and engineering excellence.
 
 #### 📧 Direct Email
 For formal inquiries regarding executive roles or consulting:
 * **Email:** [shunvel@gmail.com](mailto:shunvel@gmail.com)
 
 #### 📍 Location
+I am based in Chennai, India, and operate across global time zones to support teams in the **US, Canada, Finland, and New Zealand**.
 * **Base:** Chennai, India
 * **Mobility:** Open to global strategic opportunities and remote-first leadership.
 
