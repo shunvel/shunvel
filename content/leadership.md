@@ -45,9 +45,24 @@ To sustain long-term growth, I institutionalized a structured pipeline to identi
 
 Innovation is not an event; it is a habit. I foster this through "Innovation Sandboxes" and competitive experimentation.
 
-* **3x Consecutive IPL Champions:** Led the team to three back-to-back victories in the **Innovation Premier League (IPL)** (2022–2024), securing awards for "Overall Excellence" and "Deep Tech."
+* **3x Consecutive IPL Champions:** Led the team to three back-to-back victories in the **Innovation Premier League (IPL)** (2023–2025), securing awards for "Overall Excellence" and "Deep Tech."
 * **Knowledge Multipliers:** Established a continuous learning ecosystem resulting in **300+ Technical Knowledge Base articles** and **100+ annual cross-project brown-bag sessions** to exchange deep-tech insights.
-
+<div style="display: flex; flex-direction: column; align-items: center; margin: 40px 0;">
+    <img src="/images/ipl-winner-cup.png" 
+         alt="Shunmugavel Mariappan with the Innovation Premier League (IPL) winner cup" 
+         style="max-width: 80%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+    <p style="text-align: center; font-size: 0.9em; color: #888; margin-top: 15px; font-style: italic;">
+        Celebrating the 3rd consecutive win at the Trimble Innovation Premier League (2025).
+    </p>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
+    <img src="/images/trimble-award-collection.png" 
+         alt="Gallery of Trimble Innovation Premier League trophies and awards." 
+         style="width: 100%; max-width: 950px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.15);">
+    <p style="text-align: center; font-size: 0.95em; color: #666; margin-top: 15px; font-style: italic; max-width: 80%;">
+        A Legacy of Innovation: Tangible proof of our team's consistent excellence, winning the Trimble India Hackathon for three consecutive years (2023–2025).
+    </p>
+</div>
 ---
 
 > "A leader's primary duty is to act as a shield—protecting the team from noise so they can focus on high-value innovation."
