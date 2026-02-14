@@ -30,7 +30,7 @@ params:
     enabled: true
     title: "Hi, I'm Shunvel."
     subtitle: >
-      **Engineering Director | AI & Industry Cloud** <br><br>
+      **Engineering Director | AI, Platforms & Industry Cloud** <br><br>
       I build the engines that build software. Currently pioneering **Engineering to Order (ETO)** models and Agentic AI ecosystems.
       <br><br>
       **Cloud Strategy & Mastery:** <br>
@@ -66,6 +66,8 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/shunmugavel"
+    - name: medium
+      url: "https://shunvel.medium.com/"
     - name: email
       url: "mailto:shunvel@gmail.com"
 
