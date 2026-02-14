@@ -75,7 +75,7 @@ menu:
     - name: "Leadership"
       url: "/leadership"
       weight: 10
-    - name: "AI Innovation"
+    - name: "AI Innovation & Engineering Excellence"
       url: "/ai"
       weight: 20
     - name: "Experience"
