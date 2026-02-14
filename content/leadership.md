@@ -27,7 +27,7 @@ I believe that engineering output is a direct function of organizational culture
 
 To sustain long-term growth, I institutionalized a structured pipeline to identify and cultivate the next generation of technical leaders.
 
-* **Pipeline Development:** Built a comprehensive program to transition high-potential individual contributors into Lead and Director-level roles through the **Management Performance Review System (MPRS)**.
+* **Pipeline Development:** Built a comprehensive program for high-potential individual contributors,collaborating with the T&D team to design a scalable coaching and training framework. 
 * **Championing Diversity:** Actively mentor participants in the **Future Women in Leadership (FWL)** program, ensuring a diverse leadership core.
 * **Single-Threaded Ownership (STO):** Transitioned the org to an STO model, providing emerging leaders with radical autonomy and end-to-end accountability for specific product suites.
 
