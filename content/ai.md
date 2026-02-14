@@ -30,6 +30,15 @@ I transitioned the organization’s testing philosophy from the traditional "Ice
 * **Unified Metrics:** Automated the tracking of **SPACE and DORA metrics** through a centralized DOMO dashboard to drive data-backed velocity improvements.
 * **AI-Driven Quality Strategy:** Co-authored the **AI in QA Playbook**, establishing the organizational standards for integrating LLMs and Agentic workflows into the automated testing lifecycle.
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
+    <img src="/images/value.jpg" 
+         alt="Framework to Accelerate Value Delivery showing the connection between technical practices, North Star goals, and DORA metrics." 
+         style="max-width: 90%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="text-align: center; font-size: 0.9em; color: #888; margin-top: 15px; font-style: italic; max-width: 80%;">
+        Value Delivery Framework: Aligning technical practices like Microservices and AI/ML with DORA and SPACE metrics to accelerate organizational "North Star" goals.
+    </p>
+</div>
+
 ### The "Stay Curious" Tech Radar
 
 For the **last 5 years**, I have spearheaded the development of our internal Tech Radar, providing a strategic technical North Star for the organization.
