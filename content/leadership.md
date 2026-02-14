@@ -10,6 +10,7 @@ I lead engineering organizations by bridging technical excellence with high-leve
 * **India Engineering Council (IEC) Representative:** I serve as the segment representative for a collective of **500+ engineering professionals**, driving strategic alignment between regional talent and global product roadmaps.
 * **Global Working Group & Site Leadership:** As a member of the Site Leadership team, I collaborate with stakeholders in the **US, Canada, Finland, and New Zealand** to operationalize global initiatives and standardize engineering practices.
 * **Organizational Scaling & Transformation:** Successfully managed the transformation of the Chennai engineering hub from a 5-person unit to a multi-functional powerhouse, facilitating a broader **500% organizational scale-up**.
+* **Operational Blueprint:** Co-authored the **Engineering Playbook**, a foundational document used to standardize high-performance engineering practices for a segment of **500+ professionals**.
 
 
 
@@ -21,7 +22,14 @@ I believe that engineering output is a direct function of organizational culture
 * **Psychological Safety as a Catalyst:** By prioritizing safety and vulnerability, I transformed the team into a forerunner for innovation. This is evidenced by consistent **High Pulse survey scores (80+)**, consistently outperforming company averages.
 * **Retention Excellence:** Maintained a **92%+ talent retention rate** (attrition <10%) during hyper-growth phases by focusing on "tougher conversations" regarding growth and development rather than routine task updates.
 
-
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
+    <img src="/images/leadership-culture-pyramid.jpeg" 
+         alt="High-Impact Culture Pyramid showing outcomes, levels L1-L3, and foundational elements." 
+         style="max-width: 90%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="text-align: center; font-size: 0.9em; color: #888; margin-top: 15px; font-style: italic; max-width: 80%;">
+        The 3-Level Culture Framework: Driving long-term retention and excellence by moving from foundational learning to high-impact customer value.
+    </p>
+</div>
 
 ### 🏗️ Leadership Pipeline & Succession
 

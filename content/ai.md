@@ -1,5 +1,5 @@
 ---
-title: "AI Innovation & ETO"
+title: "AI Innovation, ETO & Engineering Excellence"
 layout: "single"
 ---
 
@@ -34,11 +34,20 @@ I transitioned the organization’s testing philosophy from the traditional "Ice
 
 For the **last 5 years**, I have spearheaded the development of our internal Tech Radar, providing a strategic technical North Star for the organization.
 
-* **60% Adoption Rate:** Successfully achieved a **60% organizational adoption rate**, aligning engineering efforts with approved, forward-looking technology quadrants.
+* **40% Adoption Rate:** Successfully achieved a **40% organizational adoption rate**, aligning engineering efforts with approved, forward-looking technology quadrants.
 * **Active Technical Trials:** Governing the trial and assessment of high-impact technical projects, including:
     * **SQL Observability:** Implementing deep-dive monitoring for database interaction layers.
     * **Edge AI:** Exploring localized AI processing for forestry hardware and IoT devices.
     * **Modern Tooling:** Driving adoption of **Devbox**, **JMeter with AI**, and **Playwright MCP** to modernize the developer experience.
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
+    <img src="/images/shun-tech-radar-2024.png" 
+         alt="Tech Radar 2024 showing Adopt, Trial, Assess, and Hold quadrants" 
+         style="max-width: 90%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p style="text-align: center; font-size: 0.9em; color: #888; margin-top: 15px; font-style: italic; max-width: 80%;">
+        Our Tech Radar 2024 - "Stay Curious": A strategic roadmap for technology adoption and engineering alignment.
+    </p>
+</div>
 
 #### Global Tech Leadership
 Certifications in AWS (Solution Architect), Azure, and GCP allow me to lead multi-cloud transformations that support high-density AI workloads and distributed event-driven architectures.
