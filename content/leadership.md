@@ -63,6 +63,6 @@ Innovation is not an event; it is a habit. I foster this through "Innovation San
         A Legacy of Innovation: Tangible proof of our team's consistent excellence, winning the Trimble India Hackathon for three consecutive years (2023–2025).
     </p>
 </div>
----
+
 
 > "A leader's primary duty is to act as a shield—protecting the team from noise so they can focus on high-value innovation."
