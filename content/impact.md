@@ -39,6 +39,6 @@ Moving the needle on innovation isn't just about strategy—it's about results.
          alt="Gallery of Trimble Innovation Premier League trophies and awards." 
          style="width: 100%; max-width: 900px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.15);">
     <p style="text-align: center; font-size: 0.95em; color: #666; margin-top: 15px; font-style: italic;">
-        A Legacy of Innovation: Tangible proof of our team's consistent excellence, winning the Trimble India Hackathon for three consecutive years (2022–2024).
+        A Legacy of Innovation: Tangible proof of our team's consistent excellence, winning the Trimble India Hackathon for three consecutive years (2023–2025).
     </p>
 </div>
