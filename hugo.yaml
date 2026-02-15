@@ -56,7 +56,7 @@ params:
       </div>
     buttons:
       - name: "Career Wins"
-        url: "/experience"
+        url: "/impact"
       - name: "Leadership Philosophy"
         url: "/leadership"
       - name: "Download Resume"
@@ -80,8 +80,8 @@ menu:
     - name: "AI Innovation & Engineering Excellence"
       url: "/ai"
       weight: 20
-    - name: "Experience"
-      url: "/experience"
+    - name: Impacts
+      url: "/impact"
       weight: 30
     - name: "Contact"
       url: "/contact"
