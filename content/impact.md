@@ -4,16 +4,28 @@ layout: "single"
 description: "A 19-year record of delivering measurable value across Telecom and SaaS ecosystems."
 ---
 
-# 🏆 The Executive Highlight Reel
+# 🏆 The Highlight Reel
 
 I measure my career by the measurable value delivered to the organizations I lead. This timeline represents a **19-year legacy** of scaling teams and architecting high-concurrency systems.
 
 | Era | Focus Area | "Wow" Result |
 | :--- | :--- | :--- |
+| **Strategic Pivot** | **ETO (0-to-1) Execution** | Spearheaded a **30-day "0 to 1" transition**, delivering a comprehensive organizational and financial blueprint for a new business entity. |
 | **Current (Trimble)** | **Global Hub Scaling** | Grew the Chennai hub by **500%** with a **92% retention rate**. |
 | **Innovation** | **Repeated Victory** | **3x Consecutive Winner** of the Innovation Premier League (IPL) (2023–2025). |
 | **Telecom (Verizon)** | **Architecture Legacy** | **12 Years** of driving excellence in high-concurrency systems. |
 | **Strategy** | **Organizational Manuals** | Co-authored segment-wide **Engineering & AI in QA Playbooks** for 500+ engineers. |
+| **Agility** | **Deployment Transformation** | Dismantled quarterly cycles; achieved first-ever **sprint-end production deployment** for couple products. |
+| **AI Productivity** | **GenAI Transformation** | **75% reduction** in Release Notes effort and **~65% reduction** in Test Case generation effort. |
+| **Cloud Economics** | **Financial Governance** | Realized **$209,639 in savings** with a **97% efficiency score** and 100% AWS compliance. |
+| **Cloud Efficiency** | **Resource Optimization** | Scaled EC2 utilization from **58% to 80%** and modernized desktop apps to web via AWS AppStream. |
+| **Velocity** | **Single-Click Deployment** | Engineered automation that reduced release cycles from **several hours to just minutes**. |
+| **Product Delivery** | **Platform Migration** | Transitioned the **Industry  Platform** from design blueprint to active deployment |
+| **Cloud Automation** | **Cost & Toil Reduction** | Reduced operational spend by **$5K/year** via resource auto-shutdown and reclaimed **1,000 engineering hours/year** through automated OS patching. |
+| **Quality Engineering** | **Test Asset Scalability** | Expanded coverage by **5,000+ test cases** over 5 years, maintaining a **20% YoY growth target** to ensure deep product reliability. |
+| **AI Automation** | **Engineering Frameworks** | Halved effort for **API testing ** and built a **Playwright framework** via NLP prompts. |
+| **Human Capital** | **Engagement Growth** | Led an 11-point increase in employee engagement, reaching a **81 Glint Score**. |
+| **Community** | **External Stewardship** | Active in **BCDC**, **GDG Chennai**, **BeSA - AWS **, **CTO Talks** and **AWS User Group Chennai** forums. |
 
 ---
 

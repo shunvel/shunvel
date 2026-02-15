@@ -16,8 +16,8 @@ I specialize in bridging the gap between bespoke quality and platform speed. By 
 
 I lead multi-cloud transformations (AWS, Azure, GCP) that support high-density AI workloads and distributed event-driven architectures.
 
-* **95% AWS Cost Efficiency:** Optimized cloud resources to achieve a consistent **95% cost efficiency rating** through automated scheduling and instance rightsizing.
-* **Automated FinOps:** Engineered an auto-shutdown framework for EC2 and RDS instances, resulting in direct annual savings of **$3.7k** and reducing manual patching effort by **1,000 hours**.
+* **97% AWS Cost Efficiency:** Optimized cloud resources to achieve a consistent **97% cost efficiency rating** through automated scheduling and instance rightsizing.
+* **Automated FinOps:** Engineered an auto-shutdown framework for EC2 and RDS instances, resulting in direct annual savings of **$4k** and reducing manual patching effort by **1,000 hours**.
 * **Serverless Optimization:** Reduced serverless deployment package sizes (Lambdas) by **97%**, significantly improving cold-start performance and operational cost.
 * **Security Compliance:** Achieved 100% compliance in vulnerability management, reducing vulnerabilities from **150 to 15 per asset**.
 
@@ -49,11 +49,11 @@ For the **last 5 years**, I have spearheaded the development of our internal Tec
     * **Modern Tooling:** Driving adoption of **Devbox**, **JMeter with AI**, and **Playwright MCP** to modernize the developer experience.
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
-    <img src="/images/shun-tech-radar-2024.png" 
-         alt="Tech Radar 2024 showing Adopt, Trial, Assess, and Hold quadrants" 
+    <img src="/images/shun-tech-radar-2025.png" 
+         alt="Tech Radar 2025 showing Adopt, Trial, Assess, and Hold quadrants" 
          style="max-width: 90%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <p style="text-align: center; font-size: 0.9em; color: #888; margin-top: 15px; font-style: italic; max-width: 80%;">
-        Our Tech Radar 2024 - "Stay Curious": A strategic roadmap for technology adoption and engineering alignment.
+        Our Tech Radar 2025 - "Stay Curious": A strategic roadmap for technology adoption and engineering alignment.
     </p>
 </div>
 
