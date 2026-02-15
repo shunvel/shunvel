@@ -23,12 +23,11 @@ I lead multi-cloud transformations (AWS, Azure, GCP) that support high-density A
 
 ### Engineering Excellence & Autonomous DevOps
 
-I transitioned the organization’s testing philosophy from the traditional "Ice Cream Cone" anti-pattern to a lean **Testing Pyramid**, underpinned by AI-driven automation.
-
-* **QA Nexus Dashboard:** Engineered a unified automation testing dashboard using **ElasticSearch and Kibana (v7.17+)**, providing real-time visibility into the health of **18+ major product releases**.
+**AI-Driven Quality Strategy:** Co-authored the **AI in QA Playbook**, establishing the organizational standards for integrating LLMs and Agentic workflows into the automated testing lifecycle.
+* **Testing Pyramid:** Transitioned the organization from the "Ice Cream Cone" anti-pattern to a lean, AI-augmented **Testing Pyramid**.
+* **QA Nexus Dashboard:** Engineered a unified automation testing dashboard using **ElasticSearch and Kibana**, providing real-time visibility into the health of **18+ major product releases**.
 * **Mailbox Magician:** Built a unique tool that triggers end-to-end test suite automation directly via email inputs, bridging the gap between business requests and execution.
 * **Unified Metrics:** Automated the tracking of **SPACE and DORA metrics** through a centralized DOMO dashboard to drive data-backed velocity improvements.
-* **AI-Driven Quality Strategy:** Co-authored the **AI in QA Playbook**, establishing the organizational standards for integrating LLMs and Agentic workflows into the automated testing lifecycle.
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 40px 0;">
     <img src="/images/value.jpg" 

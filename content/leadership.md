@@ -36,7 +36,7 @@ By applying engineering principles like **SOLID** to human systems, I eliminate 
 
 * **SRP (Single Responsibility Principle) for Teams:** I successfully transitioned the organization to a **Single-Threaded Ownership (STO)** model. By ensuring every leader has a clear, unblocked mission with decoupled dependencies, we significantly reduced organizational friction and increased velocity.
 * **KISS (Keep It Simple, Stupid) for Process:** I challenged the status quo by dismantling rigid **3-month release cycles** in favor of **2-week sprints**. This transition proved that "simple and frequent" beats "complex and rare," moving us from "integration hell" to a continuous flow of customer value.
-* **Scalability & Resilience:** I didn't just grow the Chennai hub by **500%** (from 5 to 17+ core members); I built a self-sustaining culture that maintained a **92% retention rate** during the industry’s most volatile periods.
+* **Scalability & Resilience:** I didn't just grow the Chennai hub by **500%** (from 5 to 30+ core members); I built a self-sustaining culture that maintained a **92% retention rate** during the industry’s most volatile periods.
 
 ### 🏆 Innovation as a Culture
 
