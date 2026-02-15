@@ -1,12 +1,21 @@
 ---
 title: "Strategic Impacts & Milestones"
 layout: "single"
-description: "A 19-year record of delivering measurable value across Telecom and SaaS ecosystems."
+description: "A 19-year record of delivering measurable value across Life science,Telecom,Forestry,Transportation & Logistics and Applied AI ecosystems."
 ---
 
 # 🏆 The Highlight Reel
 
 I measure my career by the measurable value delivered to the organizations I lead. This timeline represents a **19-year legacy** of scaling teams and architecting high-concurrency systems.
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 30px 0;">
+    <img src="/images/global-engineering-journey.png" 
+         alt="A Global Engineering Journey: Visual timeline of 11+ years at Verizon and 7+ years at Trimble." 
+         style="width: 100%; max-width: 900px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.15);">
+    <p style="text-align: center; font-size: 0.95em; color: #666; margin-top: 15px; font-style: italic;">
+        A Global Engineering Journey: Scaling high-performance hubs and architecting resilient platforms across India, US, and EU markets.
+    </p>
+</div>
 
 | Era | Focus Area | "Wow" Result |
 | :--- | :--- | :--- |
