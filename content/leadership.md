@@ -10,9 +10,8 @@ I lead engineering organizations by bridging technical excellence with high-leve
 * **India Engineering Council (IEC) Representative:** I serve as the segment representative for a collective of **500+ engineering professionals**, driving strategic alignment between regional talent and global product roadmaps.
 * **Global Working Group & Site Leadership:** As a member of the Site Leadership team, I collaborate with stakeholders in the **US, Canada, Finland, and New Zealand** to operationalize global initiatives and standardize engineering practices.
 * **Organizational Scaling & Transformation:** Successfully managed the transformation of the Chennai engineering hub from a 5-person unit to a multi-functional powerhouse, facilitating a broader **500% organizational scale-up**.
-* **Operational Blueprint:** Co-authored the **Engineering Playbook**, a foundational document used to standardize high-performance engineering practices for a segment of **500+ professionals**.
-
-
+* **Cross-Domain Leadership:** I have successfully applied core leadership frameworks to drive results in both high-scale **Telecom (Verizon - 11 years)** and complex **Applied AI,Transportation/Logistics & Forestry (Trimble - 7 years)** environments, proving that excellence is domain-agnostic.
+* **Legacy of Transformation:** During my tenure at **Verizon**, I managed large-scale engineering transitions that established the foundation for the organization-building expertise I now use to lead the India Engineering Council (IEC).
 
 ### 🚀 Building a High-Performance Culture
 
