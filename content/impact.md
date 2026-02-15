@@ -13,7 +13,8 @@ I measure my career by the measurable value delivered to the organizations I lea
 | **Strategic Pivot** | **ETO (0-to-1) Execution** | Spearheaded a **30-day "0 to 1" transition**, delivering a comprehensive organizational and financial blueprint for a new business entity. |
 | **Current (Trimble)** | **Global Hub Scaling** | Grew the Chennai hub by **500%** with a **92% retention rate**. |
 | **Innovation** | **Repeated Victory** | **3x Consecutive Winner** of the Innovation Premier League (IPL) (2023–2025). |
-| **Telecom (Verizon)** | **Architecture Legacy** | **12 Years** of driving excellence in high-concurrency systems. |
+| **Telecom (Verizon)** | **ML Driven Dispatch Sytems** | **12 Years** of driving excellence in high-concurrency systems-Auto dispatch improved to 80% from 34% |
+| **Greenfield Architecture** | **Full-Stack Ecosystem** | Architected and launched **7 end-to-end applications** from scratch at Verizon, spanning diverse Field System domains and core business operations. |
 | **Strategy** | **Organizational Manuals** | Co-authored segment-wide **Engineering & AI in QA Playbooks** for 500+ engineers. |
 | **Agility** | **Deployment Transformation** | Dismantled quarterly cycles; achieved first-ever **sprint-end production deployment** for couple products. |
 | **AI Productivity** | **GenAI Transformation** | **75% reduction** in Release Notes effort and **~65% reduction** in Test Case generation effort. |
