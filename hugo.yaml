@@ -28,10 +28,10 @@ params:
   # The "Hero" section (Homepage)
   profileMode:
     enabled: true
-    imageUrl: "images/shun-headshot-2.jpg"
+    imageUrl: "images/shun-headshot-3.jpg"
     imageTitle: "Shunmugavel Mariappan"
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 250
+    imageHeight: 250
     title: "Hi, I'm Shunmugavel (Shun)."
     subtitle: >
       **Engineering Director | AI, Platforms & Industry Cloud** <br><br>
