@@ -17,7 +17,7 @@ I specialize in bridging the gap between bespoke quality and platform speed. By 
 I lead multi-cloud transformations (AWS, Azure, GCP) that support high-density AI workloads and distributed event-driven architectures.
 
 * **97% AWS Cost Efficiency:** Optimized cloud resources to achieve a consistent **97% cost efficiency rating** through automated scheduling and instance rightsizing.
-* **Automated FinOps:** Engineered an auto-shutdown framework for EC2 and RDS instances, resulting in direct annual savings of **$4k** and reducing manual patching effort by **1,000 hours**.
+* **Automated FinOps:** Engineered an auto-shutdown framework for EC2 and RDS instances, resulting in direct annual savings of **$4k** and reducing manual patching effort by **1k hours**.
 * **Serverless Optimization:** Reduced serverless deployment package sizes (Lambdas) by **97%**, significantly improving cold-start performance and operational cost.
 * **Security Compliance:** Achieved 100% compliance in vulnerability management, reducing vulnerabilities from **150 to 15 per asset**.
 

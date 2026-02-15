@@ -6,7 +6,7 @@ description: "Let's connect to discuss AI innovation, ETO models, or engineering
 
 ### Let's Connect
 
-I am always open to discussing the intersection of **Agentic AI**, **Engineering to Order** business models, and high-performance engineering culture. Whether you are looking for a strategic partner, a speaker for a technical forum, or just want to talk shop about the API economy, feel free to reach out.
+I am always open to discussing the intersection of **Agentic AI**, **Engineering to Order** business models, and high-performance engineering culture. Whether you are looking for a strategic partner, a speaker for a technical forum, or just want to talk shop about the ETO models,API economy, feel free to reach out.
 
 #### 🌐 Professional Network
 The fastest way to reach me is via **LinkedIn**. I am active in the engineering community and welcome meaningful connections.
