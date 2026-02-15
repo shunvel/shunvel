@@ -1,12 +1,17 @@
 ---
-title: "Strategic Impacts & Milestones"
+title: "Strategic Impact & Milestones"
 layout: "single"
-description: "A 19-year record of delivering measurable value across Life science,Telecom,Forestry,Transportation & Logistics and Applied AI ecosystems."
+description: "A 19-year legacy of delivering value across Telecom, Applied AI, and Global Logistics."
 ---
 
 # 🏆 The Highlight Reel
 
-I measure my career by the measurable value delivered to the organizations I lead. This timeline represents a **19-year legacy** of scaling teams and architecting high-concurrency systems.
+I measure my career by the **measurable value** delivered to the organizations I lead.
+
+A **19-year legacy** of delivering measurable value across:  
+**Telecom • Applied AI • Forestry • Life Sciences • Logistics**
+
+---
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 30px 0;">
     <img src="/images/global-engineering-journey.png" 
