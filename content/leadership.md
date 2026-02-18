@@ -34,7 +34,7 @@ I believe that engineering output is a direct function of organizational culture
     </p>
 </div>
 
-### 🏗️ Building New Business Entities: 
+### 🧱 Building New Business Entities: 
 
 The ETO ,  One of my most complex leadership assignments was spearheading a 30-day “0 to 1” transition to establish the Engineering to Order (ETO) business model — effectively standing up a new business entity from scratch.  This involved: - Designing the full organizational structure and hiring blueprint for the new entity - Authoring the financial model and operational playbook from the ground up - Aligning cross-functional stakeholders across Product, Sales, and Finance leadership - Bridging the gap between bespoke, customer-specific delivery and scalable platform economics  
 
