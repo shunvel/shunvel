@@ -1,6 +1,7 @@
 ---
 title: "Leadership Philosophy"
 layout: "single"
+aliases: ["/about"]
 ---
 
 ### 🏛️ Strategic Governance & Global Influence
