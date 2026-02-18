@@ -13,6 +13,9 @@ A **19-year legacy** of delivering measurable value across:
 
 ---
 
+### The ML Dispatch Story: 
+Where AI Leadership Began  In 2014 — before 'AI' was a boardroom priority — I engineered and deployed a machine learning solution to optimize field logistics for 20,000+ Verizon technicians and 50,000 daily jobs. The result: auto-dispatch rates improved from 34% to 80%.  This wasn’t a proof-of-concept. It was a production system at massive scale, delivering real cost savings and operational efficiency for one of the world’s largest telecom companies. It’s the foundation of my belief that AI creates business value only when it’s engineered for scale, not just demonstrated in a sandbox.
+
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; margin: 30px 0;">
     <img src="/images/global-engineering-journey.png" 
          alt="A Global Engineering Journey: Visual timeline of 11+ years at Verizon and 7+ years at Trimble." 
@@ -56,3 +59,6 @@ Moving the needle on innovation isn't just about strategy—it's about results.
         A Legacy of Innovation: Tangible proof of our team's consistent excellence, winning the Trimble India Hackathon for three consecutive years (2023–2025).
     </p>
 </div>
+
+### What’s Next:
+  After 19 years of building, scaling, and transforming engineering organizations at Verizon and Trimble, I’m looking to bring this experience to a new chapter.  I’m actively exploring **Director, Senior Director and VP of Engineering** roles at companies operating in: - **Enterprise SaaS / B2B Software** - **AI/ML Platforms** - **Logistics & Supply Chain Technology**  I’m open to global roles and excited by organizations where engineering leadership has a direct seat at the business table.

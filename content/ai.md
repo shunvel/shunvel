@@ -1,14 +1,18 @@
 ---
 title: "AI Innovation, ETO & Engineering Excellence"
 layout: "single"
+aliases: ["/skills", "/tech"]
 ---
+
+### AI as a Business Multiplier  
+I don’t view AI as a technology choice — I view it as an organizational capability that compounds over time.  Across two decades and two companies, I’ve taken AI from concept to production at scale:  - At **Verizon**, I deployed ML-driven dispatch automation that moved 20,000+ field technicians from 34% to 80% automated scheduling — a business outcome that saved millions in operational cost. - At **Trimble**, I championed the adoption of AI/ML across the product portfolio, reducing development cycle time by 40%, cutting test case generation effort by 65%, and building Agentic workflows that transformed how teams work.  The through-line: I build AI strategies that are production-grade, team-adopted, and tied to measurable business value — not R&D experiments.
 
 ### The "Engineering to Order" (ETO) Model
 I specialize in bridging the gap between bespoke quality and platform speed. By pioneering the **Engineering to Order** business model, I’ve turned custom-tailored software products into scalable, high-margin realities.
 
 #### Agentic AI & Workflows
 * **Beyond RAG:** Designing autonomous agents that move past simple chat interfaces to execute multi-step business workflows.
-* **Modern Tech Stack:** Expert implementation of **LangGraph**, **N8N**, and Vector DBs to build self-correcting AI systems.
+* **Strategic Stack for Agentic Systems:**: Each tool is chosen for production-readiness and team scalability — LangGraph for complex multi-agent orchestration, N8N for workflow automation at non-technical team speed, Vector DBs for retrieval-augmented production systems.
 * **Agentic-Ready APIs:** Designing API ecosystems that are optimized for consumption by autonomous agents, ensuring future-proof platform scalability.
 * **Autonomous Tuning:** Developed specialized agents for **SQL performance tuning**, identifying bottlenecks and suggesting index strategies autonomously.
 

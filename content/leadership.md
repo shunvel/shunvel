@@ -4,11 +4,14 @@ layout: "single"
 aliases: ["/about"]
 ---
 
+A Note on Scope: My title is Engineering Director, but my operating scope has consistently exceeded that band. As the India Engineering Council (IEC) representative for 500+ engineers at the segment level, the author of org-wide engineering playbooks, I’ve functioned at a Senior Director or VP level for more than a year. The metrics — 500% org growth, 92% retention, $20M portfolio — reflect that scope.
+
 ### 🏛️ Strategic Governance & Global Influence
 
 I lead engineering organizations by bridging technical excellence with high-level business strategy. My leadership extends across regional boundaries to influence global engineering standards and organizational design.
 
 * **India Engineering Council (IEC) Representative:** I serve as the segment representative for a collective of **500+ engineering professionals**, driving strategic alignment between regional talent and global product roadmaps.
+* **Revenue & Portfolio Accountability:** Acted as the key engineering partner to Product, Sales, and Business leadership for a $20M revenue portfolio. Translated customer requirements and commercial opportunities into multi-year technical roadmaps, contributing directly to a 60% revenue growth trajectory
 * **Global Working Group & Site Leadership:** As a member of the Site Leadership team, I collaborate with stakeholders in the **US, Canada, Finland, and New Zealand** to operationalize global initiatives and standardize engineering practices.
 * **Organizational Scaling & Transformation:** Successfully managed the transformation of the Chennai engineering hub from a 5-person unit to a multi-functional powerhouse, facilitating a broader **500% organizational scale-up**.
 * **Cross-Domain Leadership:** I have successfully applied core leadership frameworks to drive results in both high-scale **Telecom (Verizon - 11 years)** and complex **Applied AI,Transportation/Logistics & Forestry (Trimble - 7 years)** environments, proving that excellence is domain-agnostic.
@@ -30,6 +33,12 @@ I believe that engineering output is a direct function of organizational culture
         The 3-Level Culture Framework: Driving long-term retention and excellence by moving from foundational learning to high-impact customer value.
     </p>
 </div>
+
+### 🏗️ Building New Business Entities: 
+
+The ETO ,  One of my most complex leadership assignments was spearheading a 30-day “0 to 1” transition to establish the Engineering to Order (ETO) business model — effectively standing up a new business entity from scratch.  This involved: - Designing the full organizational structure and hiring blueprint for the new entity - Authoring the financial model and operational playbook from the ground up - Aligning cross-functional stakeholders across Product, Sales, and Finance leadership - Bridging the gap between bespoke, customer-specific delivery and scalable platform economics  
+
+This experience gave me direct exposure to the challenges of 0-to-1 execution that most engineering leaders never encounter — and proved that the same rigor that scales engineering teams can be applied to scaling business models.
 
 ### 🏗️ Organizational Design: Engineering Human Systems
 I build teams the same way I build software: Modular, Scalable, and Simple.
